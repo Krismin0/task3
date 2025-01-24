@@ -1,0 +1,7 @@
+C:/Users/Kristina/projects/task3/os-task3-Krismin0/test/out/build/x64-Debug/CMakeFiles/runTests.dir
+C:/Users/Kristina/projects/task3/os-task3-Krismin0/test/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Kristina/projects/task3/os-task3-Krismin0/test/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kristina/projects/task3/os-task3-Krismin0/test/out/build/x64-Debug/gtest/CMakeFiles/gtest.dir
+C:/Users/Kristina/projects/task3/os-task3-Krismin0/test/out/build/x64-Debug/gtest/CMakeFiles/gtest_main.dir
+C:/Users/Kristina/projects/task3/os-task3-Krismin0/test/out/build/x64-Debug/gtest/CMakeFiles/edit_cache.dir
+C:/Users/Kristina/projects/task3/os-task3-Krismin0/test/out/build/x64-Debug/gtest/CMakeFiles/rebuild_cache.dir

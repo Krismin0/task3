@@ -1,0 +1,11 @@
+# ninja log v6
+15	939	7594380493311204	CMakeFiles/lab3.dir/lab3.cpp.obj	101aa10447c2faa2
+9	948	7594380493146049	CMakeFiles/lab3.dir/main.cpp.obj	97e32acb3893a4e6
+948	1230	7594380502561555	lab3.exe	630066f9814cdb53
+29	1005	7594380618331100	test/gtest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	1993f8deee255a3b
+34	1191	7594380618383031	test/CMakeFiles/runTests.dir/__/lab3.cpp.obj	d568597c1abc3416
+39	1761	7594380618434797	test/CMakeFiles/runTests.dir/tests.cpp.obj	c61365ef1eda334b
+24	2092	7594380618177749	test/gtest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f535e6e5a2341891
+2092	2170	7594380638817844	test/gtest/gtestd.lib	c1f2152b25f3ab3d
+2171	2209	7594380639605463	test/gtest/gtest_maind.lib	cecad228fc590637
+2209	2610	7594380640112219	test/runTests.exe	5ab0454b944737d7
